@@ -52,10 +52,3 @@ The CNN model is trained on the **FER-2013** dataset (or custom dataset) and con
 ---
 
 ## 🖼️ Sample Output
-
-![sample_output](sample_frame.png)
-
----
-
-## 📁 Project Structure
-
